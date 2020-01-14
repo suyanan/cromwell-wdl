@@ -1,0 +1,6 @@
+{
+  "es.bed": "/sfs/home/suyanan/research/elasticsearch/demo_data/DBM19A3676-1.re2.filter.100.bed",
+  "es.local_docker": "swr.cn-north-1.myhuaweicloud.com/grand-med-research/dbsv-es:2.5",
+  "es.local_mem": "64G",
+  "es.local_cpu": "32"
+}

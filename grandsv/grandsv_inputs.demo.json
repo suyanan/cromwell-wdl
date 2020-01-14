@@ -1,0 +1,16 @@
+{
+  "grandsv.project_id": "BJXWZ-DEMO",
+  "grandsv.sample_id": "test",
+  "grandsv.svcaller": "sniffles",
+  "grandsv.ref": "/sfs/database/human/humanG1Kv37/human_g1k_v37.fasta",
+  "grandsv.aligner": "ngmlr",
+  "grandsv.fastq": "obs://cromwell-grand-med-research/project/ONT/BJXWZ-DEMO/test/PBNP18L0145-A1_pass_reads.fq.gz",
+  "grandsv.ref_version": "hg19",
+  "grandsv.ont_sv_path": "/sfs/project/ONT",
+  "grandsv.aligner_docker": "swr.cn-north-1.myhuaweicloud.com/nextomics/ngmlr:0.27",
+  "grandsv.aligner_mem": "32G",
+  "grandsv.aligner_cpu": "16",
+  "grandsv.svcaller_docker": "swr.cn-north-1.myhuaweicloud.com/nextomics/sniffles:1.0.11",
+  "grandsv.svcaller_mem": "16G",
+  "grandsv.svcaller_cpu": "4"
+}

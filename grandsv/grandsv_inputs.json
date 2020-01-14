@@ -1,0 +1,16 @@
+{
+  "grandsv.project_id": "BJXWZ-DEMO",
+  "grandsv.sample_id": "DBM19A3676-1_3",
+  "grandsv.svcaller": "sniffles",
+  "grandsv.ref": "/sfs/database/human/humanG1Kv37/human_g1k_v37.fasta",
+  "grandsv.aligner": "ngmlr",
+  "grandsv.fastq": "obs://backup-nextomics-wh/Sequencing/Nanopore/PCT0009/201909/20190924-WNP0896-P5-PAE00686/PAE00686/qc_report/fastq/20190924-WNP0896-P5-PAE00686.pass.fastq.gz",
+  "grandsv.ref_version": "hg19",
+  "grandsv.ont_sv_path": "/sfs/project/ONT",
+  "grandsv.aligner_docker": "swr.cn-north-1.myhuaweicloud.com/nextomics/ngmlr:0.27.1",
+  "grandsv.aligner_mem": "64G",
+  "grandsv.aligner_cpu": "32",
+  "grandsv.svcaller_docker": "swr.cn-north-1.myhuaweicloud.com/nextomics/sniffles:1.0.11",
+  "grandsv.svcaller_mem": "16G",
+  "grandsv.svcaller_cpu": "4"
+}
